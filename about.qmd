@@ -1,0 +1,5 @@
+---
+title: "About Me"
+---
+
+Hello. I am Hasnat Ahsan. I am a Computer Engineer. I have also completed my MBA. Currently I am doing my MS in Applied Business Analytics at the Boston University.

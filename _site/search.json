@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mysite",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello. I am Hasnat Ahsan. I am a Computer Engineer. I have also completed my MBA. Currently I am doing my MS in Applied Business Analytics at the Boston University."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I have already completed projects related to analyze New York real estate data. I have also completed projects related to Amazon EC2 instance."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Hello. I am Hasnat Ahsan. I am a Computer Engineer. I have also completed my MBA. Currently I am doing my MS in Applied Business Analytics at the Boston University."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "email: hasnat_ahsan3000@yahoo.com\nphone: 617-286-9612"
+  }
+]

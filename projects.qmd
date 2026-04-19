@@ -1,0 +1,5 @@
+---
+title: "Projects"
+---
+
+I have already completed projects related to analyze New York real estate data. I have also completed projects related to Amazon EC2 instance.
