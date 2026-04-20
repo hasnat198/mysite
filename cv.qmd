@@ -2,4 +2,23 @@
 title: "CV"
 ---
 
-Hello. I am Hasnat Ahsan. I am a Computer Engineer. I have also completed my MBA. Currently I am doing my MS in Applied Business Analytics at the Boston University.
+HASNAT AHSAN
+
+www.linkedin.com/in/hasnatahsan hasnat_ahsan3000\@yahoo.com +1 (617) 286-9612
+
+Obtained diversified professional experience of nearly 19 years ranging from technology development to financial policy design. A Computer Science Graduate. Core strength includes data analysis, trend forecasting. Programming skills in Python, MySQL, and Visual Basic. Expertise in MS Excel, MS Power Point and MS Word. Currently pursuing Masters at Boston University. A sports and entertainment enthusiast. Developed a software using PHP and MySQL to analyze English Premier League data out of passion towards football.
+
+|  |  |
+|----------------------------------------------------|--------------------|
+| **Bangladesh Bank (The Central Bank of Bangladesh)** |  |
+| Joint Director | *May, 2015 - August, 2025* |
+| Regular analysis of payment data within the country including on-us and off-us data of financial institutions. |  |
+| **Augere Wireless Broadband Bangladesh Ltd. (Wimax Service Provider)** |  |
+| Assistant Manager, Billing | *October, 2009 - April, 2015* |
+| Developed software to facilitated new product and service using Unix Shell Script, SQL. |  |
+| **Warid Telecom (Telecommunication Service Provider)** |  |
+| IT Network Official | *May, 2009 - September, 2009* |
+| Developed software to facilitated reporting and monitoring using PHP, MySql. |  |
+| TechValley Solutions (IT Network Service Provider) |  |
+| Help Desk Engineer | *November, 2006 - April, 2009* |
+| Worked to ensure seamless network and system support. |  |
