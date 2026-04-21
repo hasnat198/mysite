@@ -25,7 +25,7 @@ Obtained diversified professional experience of nearly 19 years ranging from tec
 ## Professional Experience
 
 |  |  |
-|--------------------------------------------------|----------------------|
+|-------------------------------------------------|----------------------:|
 | **Bangladesh Bank (The Central Bank of Bangladesh)** |  |
 | Joint Director | *May, 2015 - August, 2025* |
 | Regular analysis of payment data within the country including on-us and off-us data of financial institutions. |  |
@@ -42,7 +42,7 @@ Obtained diversified professional experience of nearly 19 years ranging from tec
 ## Educational Qualification
 
 |  |  |
-|----|----|
+|------------------------------------|-----------------------------------:|
 | **Boston University** |  |
 | MS in Applied Business Analytics | *Expected to complete in December, 2026* |
 | **Institute of Business Administration, University of Dhaka** |  |
