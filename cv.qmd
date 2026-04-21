@@ -1,15 +1,31 @@
 ---
-title: "CV"
+title: "HASNAT AHSAN"
+format: html
+engine: knitr
 ---
 
-HASNAT AHSAN
+::: {style="text-align: right;"}
+www.linkedin.com/in/hasnatahsan\
+hasnat_ahsan3000\@yahoo.com\
++1 (617) 286-9612
+:::
 
-www.linkedin.com/in/hasnatahsan hasnat_ahsan3000\@yahoo.com +1 (617) 286-9612
+```{css, echo = FALSE}
+.justify {
+  text-align: justify
+}
+```
 
+## Summary
+
+::: justify
 Obtained diversified professional experience of nearly 19 years ranging from technology development to financial policy design. A Computer Science Graduate. Core strength includes data analysis, trend forecasting. Programming skills in Python, MySQL, and Visual Basic. Expertise in MS Excel, MS Power Point and MS Word. Currently pursuing Masters at Boston University. A sports and entertainment enthusiast. Developed a software using PHP and MySQL to analyze English Premier League data out of passion towards football.
+:::
+
+## Professional Experience
 
 |  |  |
-|----------------------------------------------------|--------------------|
+|--------------------------------------------------|----------------------|
 | **Bangladesh Bank (The Central Bank of Bangladesh)** |  |
 | Joint Director | *May, 2015 - August, 2025* |
 | Regular analysis of payment data within the country including on-us and off-us data of financial institutions. |  |
@@ -19,6 +35,17 @@ Obtained diversified professional experience of nearly 19 years ranging from tec
 | **Warid Telecom (Telecommunication Service Provider)** |  |
 | IT Network Official | *May, 2009 - September, 2009* |
 | Developed software to facilitated reporting and monitoring using PHP, MySql. |  |
-| TechValley Solutions (IT Network Service Provider) |  |
+| **TechValley Solutions (IT Network Service Provider)** |  |
 | Help Desk Engineer | *November, 2006 - April, 2009* |
 | Worked to ensure seamless network and system support. |  |
+
+## Educational Qualification
+
+|  |  |
+|----|----|
+| **Boston University** |  |
+| MS in Applied Business Analytics | *Expected to complete in December, 2026* |
+| **Institute of Business Administration, University of Dhaka** |  |
+| Master of Business Administration (Major in Finance) | *February, 2009 - June, 2014* |
+| **Chittagong University of Engineering and Technology** |  |
+| B.Sc. in Engineering (Computer Science and Engineering) | *April, 2002 - October, 2006* |
