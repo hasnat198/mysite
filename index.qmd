@@ -1,7 +1,5 @@
 ---
-title: "mysite"
+title: "Personal Website"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hey there! You landed on my home. To know more about me, check the links above.

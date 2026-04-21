@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mysite",
+    "title": "Personal Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hey there! You landed on my home. To know more about me, check the links above."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hello. I am Hasnat Ahsan. I am a Computer Engineer. I have also completed my MBA. Currently I am doing my MS in Applied Business Analytics at the Boston University."
+    "text": "Hello. I am Hasnat Ahsan. I am working with financial technology. My professional experience is diversified, rangind from technology to banking. I am a Computer Engineering graduate. I have also completed my MBA. Currently I am doing my MS in Applied Business Analytics at the Boston University."
   },
   {
     "objectID": "projects.html",
