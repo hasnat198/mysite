@@ -1,5 +1,41 @@
 ---
 title: "Projects"
+format: html
+engine: knitr
 ---
 
-I have already completed projects related to analyze New York real estate data. I have also completed projects related to Amazon EC2 instance.
+```{css, echo = FALSE}
+.justify {
+  text-align: justify
+}
+```
+
+
+
+I have completed various projects in both professional and academic settings. Some of those can be described as below. 
+
+## Billing System Migration
+
+::: justify
+While I was working in Augere Wireless Broadband Bangladesh Ltd. (A WIMAX service provider in Bangladesh), I was a part of this project completion team. The agreement period between Augere and their billing system provided was over. In such a scenario, a new billing system was required to run the show. As a result, the core billing system (including unix operating system, oracle database, billing application) of Augere was migrated from one service provided to the other. This was especially a challenging project as the support from the previous operator was not present during the migration and thus, it was required to understand their overall structure of operating system, database and application.
+:::
+## Real Time Gross Settlement (RTGS) System installatioin
+
+::: justify
+Bangladesh Bank established RTGS system in the country during the year 2015. I was an active participant of this project team.
+:::
+## Mail Server configuration
+
+::: justify
+As part of my undergraduate project in Chittagong Universiry of Engineering and Technology, I completed this project.
+:::
+## New York real estate data analysis.
+
+::: justify
+I worked to analyze New York real estate data as part of my MS in Boston University. 
+:::
+## Amazon EC2
+
+::: justify
+I have also completed projects related to Amazon EC2 instance.
+:::

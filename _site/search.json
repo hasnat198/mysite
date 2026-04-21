@@ -18,7 +18,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "I have already completed projects related to analyze New York real estate data. I have also completed projects related to Amazon EC2 instance."
+    "text": "I have completed various projects in both professional and academic settings. Some of those can be described as below."
   },
   {
     "objectID": "cv.html",
@@ -32,7 +32,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "email: hasnat_ahsan3000@yahoo.com\nphone: 617-286-9612"
+    "text": "I can be reached through below conctacts.\n\nemail: hasnat_ahsan3000@yahoo.com\nphone: 617-286-9612"
   },
   {
     "objectID": "cv.html#quarto",
@@ -89,5 +89,40 @@
     "title": "About Me",
     "section": "Academics",
     "text": "Academics\n\nI am a Computer Engineering graduate. I have also completed my MBA. Currently I am doing my MS in Applied Business Analytics at the Boston University."
+  },
+  {
+    "objectID": "projects.html#billing-system-migration",
+    "href": "projects.html#billing-system-migration",
+    "title": "Projects",
+    "section": "Billing System Migration",
+    "text": "Billing System Migration\n\nWhile I was working in Augere Wireless Broadband Bangladesh Ltd. (A WIMAX service provider in Bangladesh), I was a part of this project completion team. The agreement period between Augere and their billing system provided was over. In such a scenario, a new billing system was required to run the show. As a result, the core billing system (including unix operating system, oracle database, billing application) of Augere was migrated from one service provided to the other. This was especially a challenging project as the support from the previous operator was not present during the migration and thus, it was required to understand their overall structure of operating system, database and application."
+  },
+  {
+    "objectID": "projects.html#real-time-gross-settlement-rtgs-system-installatioin",
+    "href": "projects.html#real-time-gross-settlement-rtgs-system-installatioin",
+    "title": "Projects",
+    "section": "Real Time Gross Settlement (RTGS) System installatioin",
+    "text": "Real Time Gross Settlement (RTGS) System installatioin\n\nBangladesh Bank established RTGS system in the country during the year 2015. I was an active participant of this project team."
+  },
+  {
+    "objectID": "projects.html#mail-server-configuration",
+    "href": "projects.html#mail-server-configuration",
+    "title": "Projects",
+    "section": "Mail Server configuration",
+    "text": "Mail Server configuration\n\nAs part of my undergraduate project in Chittagong Universiry of Engineering and Technology, I completed this project."
+  },
+  {
+    "objectID": "projects.html#new-york-real-estate-data-analysis.",
+    "href": "projects.html#new-york-real-estate-data-analysis.",
+    "title": "Projects",
+    "section": "New York real estate data analysis.",
+    "text": "New York real estate data analysis.\n\nI worked to analyze New York real estate data as part of my MS in Boston University."
+  },
+  {
+    "objectID": "projects.html#amazon-ec2",
+    "href": "projects.html#amazon-ec2",
+    "title": "Projects",
+    "section": "Amazon EC2",
+    "text": "Amazon EC2\n\nI have also completed projects related to Amazon EC2 instance."
   }
 ]
