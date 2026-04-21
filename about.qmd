@@ -1,5 +1,29 @@
 ---
 title: "About Me"
+format: html
+engine: knitr
 ---
 
-Hello. I am Hasnat Ahsan. I am working with financial technology. My professional experience is diversified, rangind from technology to banking. I am a Computer Engineering graduate. I have also completed my MBA. Currently I am doing my MS in Applied Business Analytics at the Boston University.
+```{css, echo = FALSE}
+.justify {
+  text-align: justify
+}
+```
+
+## Basic Information
+
+::: justify
+Hello. I am Hasnat Ahsan, and I am from Bangladesh.
+:::
+
+## Professional Status
+
+::: justify
+My professional experience is diversified, rangind from technology to banking. I have completed various technical projects including telecommunication billing system migration, data center establishment etc. Besides, I have been working with financial policy making as an employee of the Central Bank of Bangladesh.
+::: 
+
+## Academics
+
+::: justify
+I am a Computer Engineering graduate. I have also completed my MBA. Currently I am doing my MS in Applied Business Analytics at the Boston University.
+:::

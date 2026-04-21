@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hello. I am Hasnat Ahsan. I am working with financial technology. My professional experience is diversified, rangind from technology to banking. I am a Computer Engineering graduate. I have also completed my MBA. Currently I am doing my MS in Applied Business Analytics at the Boston University."
+    "text": "{css, echo = FALSE} .justify {   text-align: justify }"
   },
   {
     "objectID": "projects.html",
@@ -68,5 +68,26 @@
     "title": "HASNAT AHSAN",
     "section": "Educational Qualification",
     "text": "Educational Qualification\n\n\n\n\n\n\n\nBoston University\n\n\n\nMS in Applied Business Analytics\nExpected to complete in December, 2026\n\n\nInstitute of Business Administration, University of Dhaka\n\n\n\nMaster of Business Administration (Major in Finance)\nFebruary, 2009 - June, 2014\n\n\nChittagong University of Engineering and Technology\n\n\n\nB.Sc. in Engineering (Computer Science and Engineering)\nApril, 2002 - October, 2006"
+  },
+  {
+    "objectID": "about.html#basic-information",
+    "href": "about.html#basic-information",
+    "title": "About Me",
+    "section": "Basic Information",
+    "text": "Basic Information\n\nHello. I am Hasnat Ahsan, and I am from Bangladesh."
+  },
+  {
+    "objectID": "about.html#professional-status",
+    "href": "about.html#professional-status",
+    "title": "About Me",
+    "section": "Professional Status",
+    "text": "Professional Status\n\nMy professional experience is diversified, rangind from technology to banking. I have completed various technical projects including telecommunication billing system migration, data center establishment etc. Besides, I have been working with financial policy making as an employee of the Central Bank of Bangladesh."
+  },
+  {
+    "objectID": "about.html#academics",
+    "href": "about.html#academics",
+    "title": "About Me",
+    "section": "Academics",
+    "text": "Academics\n\nI am a Computer Engineering graduate. I have also completed my MBA. Currently I am doing my MS in Applied Business Analytics at the Boston University."
   }
 ]
